@@ -279,12 +279,7 @@
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 57
+	"total": 56
 }
