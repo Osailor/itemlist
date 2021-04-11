@@ -2,7 +2,7 @@
   "traits": [
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Abrasive",
@@ -21,7 +21,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "AnnoyingVoice",
@@ -40,7 +40,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Ascetic",
@@ -67,7 +67,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Asexual",
@@ -86,7 +86,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Beauty",
@@ -109,7 +109,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Bisexual",
@@ -128,7 +128,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "BleedingHeart",
@@ -157,7 +157,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Bloodlust",
@@ -176,7 +176,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "BodyPurist",
@@ -199,7 +199,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Brawler",
@@ -236,7 +236,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Cannibal",
@@ -255,7 +255,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "ShootingAccuracy",
@@ -284,7 +284,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Chatty",
@@ -303,7 +303,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "DrugDesire",
@@ -322,7 +322,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "DrugDesire",
@@ -341,7 +341,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Codependent",
@@ -366,7 +366,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "CreepyBreathing",
@@ -385,7 +385,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "NaturalMood",
@@ -404,7 +404,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Desensitized",
@@ -431,7 +431,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "FastLearner",
@@ -454,7 +454,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "SpeedOffset",
@@ -477,7 +477,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Gay",
@@ -496,7 +496,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Gourmand",
@@ -525,7 +525,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Gourmet",
@@ -550,7 +550,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "GreatMemory",
@@ -569,7 +569,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Greedy",
@@ -594,7 +594,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Industriousness",
@@ -617,7 +617,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "HeavySleeper",
@@ -644,7 +644,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Industriousness",
@@ -667,7 +667,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Insomniac",
@@ -690,7 +690,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Nerves",
@@ -713,7 +713,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Jealous",
@@ -738,7 +738,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "SpeedOffset",
@@ -761,7 +761,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Kind",
@@ -786,7 +786,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Industriousness",
@@ -809,7 +809,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Lecher",
@@ -836,7 +836,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Masochist",
@@ -855,7 +855,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "DislikesMen",
@@ -874,7 +874,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "DislikesWomen",
@@ -893,7 +893,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Nerves",
@@ -916,7 +916,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Neurotic",
@@ -941,7 +941,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "NightOwl",
@@ -960,7 +960,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Nimble",
@@ -985,7 +985,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Nudist",
@@ -1004,7 +1004,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "OpenMinded",
@@ -1037,7 +1037,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "NaturalMood",
@@ -1056,7 +1056,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Outdoorsy",
@@ -1079,7 +1079,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "NaturalMood",
@@ -1098,7 +1098,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Photosensitive",
@@ -1117,7 +1117,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Pluviophile",
@@ -1136,7 +1136,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Polygamous",
@@ -1161,7 +1161,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Beauty",
@@ -1184,7 +1184,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Prude",
@@ -1213,7 +1213,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "PsychicSensitivity",
@@ -1236,7 +1236,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "PsychicSensitivity",
@@ -1259,7 +1259,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "PsychicSensitivity",
@@ -1282,7 +1282,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "PsychicSensitivity",
@@ -1305,7 +1305,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Psychopath",
@@ -1324,7 +1324,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Pyromaniac",
@@ -1347,7 +1347,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "QuickSleeper",
@@ -1370,7 +1370,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "NaturalMood",
@@ -1389,7 +1389,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Sedentary",
@@ -1420,7 +1420,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Immunity",
@@ -1443,7 +1443,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Industriousness",
@@ -1466,7 +1466,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "SlowLearner",
@@ -1493,7 +1493,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "SpeedOffset",
@@ -1518,7 +1518,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Socialite",
@@ -1537,7 +1537,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Beauty",
@@ -1560,7 +1560,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Nerves",
@@ -1583,7 +1583,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Immunity",
@@ -1606,7 +1606,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "DrugDesire",
@@ -1631,7 +1631,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "TooSmart",
@@ -1668,7 +1668,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "TorturedArtist",
@@ -1687,7 +1687,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Tough",
@@ -1710,7 +1710,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Transhumanist",
@@ -1733,7 +1733,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "ShootingAccuracy",
@@ -1762,7 +1762,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Beauty",
@@ -1785,7 +1785,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Undergrounder",
@@ -1804,7 +1804,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Unstable",
@@ -1823,7 +1823,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Neurotic",
@@ -1848,7 +1848,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Nerves",
@@ -1871,7 +1871,7 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "defName": "Wimp",
