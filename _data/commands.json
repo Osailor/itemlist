@@ -173,16 +173,6 @@
     "data": {
       "isShortcut": true
     },
-    "description": "A colony wide resurrector mech serum.",
-    "name": "Revive all",
-    "usage": "!reviveall",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
     "description": "A personal resurrector mech serum.",
     "name": "Revive me",
     "usage": "!reviveme",
@@ -193,19 +183,9 @@
     "data": {
       "isShortcut": true
     },
-    "description": "A personal healer mech serum/",
-    "name": "Heal me",
-    "usage": "!healme",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A colony wide healer mech serum.",
-    "name": "Healall",
-    "usage": "!healall",
+    "description": "A personal resurrector mech serum.",
+    "name": "Revive me",
+    "usage": "!reviveme",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -231,101 +211,11 @@
   },
   {
     "data": {
-      "isShortcut": true
-    },
-    "description": "Adds a trait for your pawn.",
-    "name": "Add trait",
-    "usage": "!trait",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "Removes a trait from our pawn.",
-    "name": "Remove trait",
-    "usage": "!removetrait",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A resurrector mech serum for a random dead colonist.",
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A healer mech serum for a random colonist.",
-    "name": "Heal any pawn",
-    "usage": "!healanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "Replaces a trait with a different trait.",
-    "name": "Replace trait",
-    "usage": "!replacetrait <old> <new>",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "It's like buy item, but it gets added to your inventory if possible.",
-    "name": "Backpack",
-    "usage": "!backpack <item> [quantity]",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Downgrades a skill's passion... sometimes.",
-    "name": "Remove passion",
-    "usage": "!removepassion <skill>",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
       "isShortcut": false
     },
     "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
     "usage": "!passion <skill>",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Heals all healable injuries your pawn currently has.",
-    "name": "Full heal",
-    "usage": "!fullheal",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Creates a prisoner rescue quest for your most recent pawn.",
-    "name": "Rescue me",
-    "usage": "!rescueme",
     "userLevel": "Anyone",
     "shortcut": false
   },
