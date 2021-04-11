@@ -44,10 +44,10 @@ store:
     usage: true
   events:
     # Whether or not the event list will display the command a viewer should type for purchasing that event.
-    usage: false
+    usage: true
   animals:
     # Whether or not the animal list will display the command a viewer should type for purchasing that animal.
-    usage: false
+    usage: true
 
 commands:
   # Whether or not the command list will display the command's shortcut disclaimer.
