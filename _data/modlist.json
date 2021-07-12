@@ -3,23 +3,37 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.0.4.0"
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "BJInternetSupervision",
-    "name": "[SS]Lovely Hair Style"
+    "name": "[SS]Lovely Hair Style",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Telkir",
-    "name": "[T] MoreFloors"
+    "name": "[T] MoreFloors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Peppsen",
-    "name": "P-Music"
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Crlsniper",
-    "name": "Realistic Rooms Lite"
+    "name": "Realistic Rooms Lite",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -35,7 +49,9 @@
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Allow Tool"
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxe",
@@ -51,7 +67,9 @@
   },
   {
     "author": "Orion",
-    "name": "Xeva's Rimhair"
+    "name": "Xeva's Rimhair",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "MarvinKosh",
@@ -61,7 +79,9 @@
   },
   {
     "author": "cucumpear, Azrael",
-    "name": "Animal Variety Coats"
+    "name": "Animal Variety Coats",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -71,7 +91,9 @@
   },
   {
     "author": "spoonshortageftNackblad",
-    "name": "FashionRIMsta"
+    "name": "FashionRIMsta",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -81,29 +103,39 @@
   },
   {
     "author": "Densevoid",
-    "name": "Tribal Headgear Retexturing"
+    "name": "Tribal Headgear Retexturing",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Odstriman",
-    "name": "[Ods] Womens Hair "
+    "name": "[Ods] Womens Hair ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JI_Won",
-    "name": "Won hair_men"
+    "name": "Won hair_men",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Defensive Positions"
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.823"
+    "version": "1.3.900"
   },
   {
     "author": "JI_Won",
-    "name": "Won hair_women "
+    "name": "Won hair_women ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "NilchEi",
@@ -113,19 +145,27 @@
   },
   {
     "author": "Jaxe",
-    "name": "RimHUD"
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Anonemous2, wofl",
-    "name": "More Furniture [1.1 + 1.2]"
+    "name": "More Furniture [1.1 + 1.2]",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Shotgunfrenzy",
-    "name": "SF [v1.2] Rain Removes All Filth"
+    "name": "SF [v1.2] Rain Removes All Filth",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
-    "name": "Less Arbitrary Surgery (Continued)"
+    "name": "Less Arbitrary Surgery (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PorqueNoLosDos (Updated By CrashM)",
@@ -135,15 +175,21 @@
   },
   {
     "author": "Linq",
-    "name": "Psychology (unofficial 1.1/1.2) "
+    "name": "Psychology (unofficial 1.1/1.2) ",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
-    "name": "Ponytail is Kawaii (Continued)"
+    "name": "Ponytail is Kawaii (Continued)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Pravus",
-    "name": "Fences And Floors"
+    "name": "Fences And Floors",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -191,19 +237,25 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.3.2"
+    "version": "6.0.3.3"
   },
   {
     "author": "spoonshortage",
-    "name": "A Dog Said... Animal Prosthetics"
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Murmur",
-    "name": "Temperature Control Unit"
+    "name": "Temperature Control Unit",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Falconne",
-    "name": "Heat Map"
+    "name": "Heat Map",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Murmur",
@@ -213,11 +265,15 @@
   },
   {
     "author": "void",
-    "name": "Character Editor"
+    "name": "Character Editor",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Linkolas",
-    "name": "Stabilize"
+    "name": "Stabilize",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "targhetti",
@@ -233,11 +289,15 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Australia"
+    "name": "Vanilla Animals Expanded — Australia",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki",
-    "name": "Vanilla Animals Expanded — Cats and Dogs"
+    "name": "Vanilla Animals Expanded — Cats and Dogs",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kiame Vivacity",
@@ -249,21 +309,25 @@
     "author": "AliceTries",
     "name": "FindAGunDamnIt! (Continued)",
     "steamId": "2089553836",
-    "version": "1.0.6.0"
+    "version": "1.0.8.0"
   },
   {
     "author": "AUTOMATIC",
-    "name": "Auto links"
+    "name": "Auto links",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
     "name": "Dubs Skylights",
     "steamId": "833899765",
-    "version": "1.5.1471"
+    "version": "1.5.1643"
   },
   {
     "author": "Madara Uchiha",
-    "name": "Undraft After Tucking"
+    "name": "Undraft After Tucking",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -284,10 +348,6 @@
     "version": "1.0.4"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Invisible Animal Beds"
-  },
-  {
     "author": "Mlie",
     "name": "[RF] Rumor Has It.... (Continued)",
     "steamId": "2013940581",
@@ -295,15 +355,21 @@
   },
   {
     "author": "SheiFoxy",
-    "name": "SF Grim Reality"
+    "name": "SF Grim Reality",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "AUTOMATIC",
-    "name": "Bionic icons"
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Lolidrop",
-    "name": "Lolidrop's hairshop"
+    "name": "Lolidrop's hairshop",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk",
@@ -312,17 +378,81 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded"
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PinoChemicali",
-    "name": "More Trade Ships"
+    "name": "More Trade Ships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Invisible Animal Beds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.3.767"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "fridgeBaron",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Touch Your Pet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Daniledman",
+    "name": "Carpets++ 1.2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AveryTheKitty and Erin",
+    "name": "Refined Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin, Sarg Bjornson",
+    "name": "Erin's Decorations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Master Lorian",
+    "name": "Plate Helmet",
+    "steamId": null,
+    "version": null
   }
 ]
