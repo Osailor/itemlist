@@ -231,6 +231,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -281,6 +286,16 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
@@ -294,7 +309,62 @@
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "immortality",
+		"price": 100000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 59
+	"total": 73
 }
