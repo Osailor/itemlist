@@ -190,13 +190,13 @@
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "bioniceye",
@@ -208,25 +208,25 @@
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "birdmeat",
@@ -1432,7 +1432,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "lung",
@@ -1480,7 +1480,7 @@
       "abr": "marbleblocks",
       "category": "Stone blocks",
       "defname": "BlocksMarble",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "marinearmor",
@@ -1726,7 +1726,7 @@
       "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "penoxycyline",
@@ -1774,7 +1774,7 @@
       "abr": "plasteel",
       "category": "Raw resources",
       "defname": "Plasteel",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "platearmor",
@@ -1816,7 +1816,7 @@
       "abr": "prostheticarm",
       "category": "Prosthetic",
       "defname": "SimpleProstheticArm",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "prostheticheart",
@@ -2056,7 +2056,7 @@
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "simpleresearchbench",
@@ -2182,7 +2182,7 @@
       "abr": "sniperrifle",
       "category": "Ranged weapons",
       "defname": "Gun_SniperRifle",
-      "price": -10
+      "price": 883
     },
     {
       "abr": "snowhare",
@@ -3019,12 +3019,6 @@
       "price": -10
     },
     {
-      "abr": "invisibleanimalbed",
-      "category": "Furniture",
-      "defname": "FSFInvisibleAnimalBedPlush",
-      "price": -10
-    },
-    {
       "abr": "arcademachine",
       "category": "Recreation",
       "defname": "Joy_Arcade",
@@ -3253,11 +3247,131 @@
       "price": -10
     },
     {
+      "abr": "invisibleanimalbed",
+      "category": "Furniture",
+      "defname": "FSFInvisibleAnimalBedPlush",
+      "price": -10
+    },
+    {
+      "abr": "bedsideclock",
+      "category": "Furniture",
+      "defname": "ED_Clock",
+      "price": -10
+    },
+    {
+      "abr": "bin",
+      "category": "Furniture",
+      "defname": "ED_Bin",
+      "price": -10
+    },
+    {
+      "abr": "book",
+      "category": "Furniture",
+      "defname": "ED_Book",
+      "price": -10
+    },
+    {
+      "abr": "candles",
+      "category": "Furniture",
+      "defname": "ED_Candles",
+      "price": -10
+    },
+    {
+      "abr": "cattower",
+      "category": "Furniture",
+      "defname": "ED_CatTower",
+      "price": -10
+    },
+    {
+      "abr": "doghouse",
+      "category": "Furniture",
+      "defname": "ED_DogHouse",
+      "price": -10
+    },
+    {
+      "abr": "doormat",
+      "category": "Furniture",
+      "defname": "ED_Doormat",
+      "price": -10
+    },
+    {
+      "abr": "laptop",
+      "category": "Furniture",
+      "defname": "ED_Laptop",
+      "price": -10
+    },
+    {
+      "abr": "paper",
+      "category": "Furniture",
+      "defname": "ED_Paper",
+      "price": -10
+    },
+    {
+      "abr": "papers",
+      "category": "Furniture",
+      "defname": "ED_Papers",
+      "price": -10
+    },
+    {
+      "abr": "petbowl",
+      "category": "Furniture",
+      "defname": "ED_PetBowl",
+      "price": -10
+    },
+    {
+      "abr": "pileofbooks",
+      "category": "Furniture",
+      "defname": "ED_PileofBooks",
+      "price": -10
+    },
+    {
+      "abr": "pillow",
+      "category": "Furniture",
+      "defname": "ED_Pillow",
+      "price": -10
+    },
+    {
+      "abr": "platehelmet",
+      "category": "Headgear",
+      "defname": "Apparel_PlateHelmet",
+      "price": 517
+    },
+    {
+      "abr": "plushie",
+      "category": "Furniture",
+      "defname": "ED_Plushie",
+      "price": -10
+    },
+    {
+      "abr": "smallphotos",
+      "category": "Furniture",
+      "defname": "ED_SmallPhotos",
+      "price": -10
+    },
+    {
+      "abr": "smallplantpot",
+      "category": "Furniture",
+      "defname": "ED_SmallPlant",
+      "price": -10
+    },
+    {
+      "abr": "trophy",
+      "category": "Furniture",
+      "defname": "ED_Trophy",
+      "price": -10
+    },
+    {
+      "abr": "vase",
+      "category": "Furniture",
+      "defname": "ED_Vase",
+      "price": -10
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": -10
     }
   ],
-  "total": 543
+  "total": 562
 }
