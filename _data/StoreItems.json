@@ -1738,7 +1738,7 @@
       "abr": "personacore",
       "category": "Items",
       "defname": "AIPersonaCore",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "pig",
@@ -2494,7 +2494,7 @@
       "abr": "uranium",
       "category": "Raw resources",
       "defname": "Uranium",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "urn",
@@ -3370,7 +3370,7 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
   "total": 562
