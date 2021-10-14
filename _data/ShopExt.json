@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
 
       ],
@@ -95,7 +95,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has no sexual attraction to anyone at all.",
+      "description": "Timmy is uninterested in romantic entanglements.",
       "stats": [
 
       ],
@@ -118,8 +118,8 @@
       },
       "defName": "Asexual",
       "name": "asexual",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -155,7 +155,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is romantically attracted to both men and women.",
+      "description": "Timmy is romantically attracted to people regardless of gender.",
       "stats": [
 
       ],
@@ -178,8 +178,8 @@
       },
       "defName": "Bisexual",
       "name": "bisexual",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -200,7 +200,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "psychopath",
@@ -395,7 +395,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -486,7 +486,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "lecher",
@@ -609,7 +609,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "bleedingheart",
@@ -712,8 +712,8 @@
       },
       "defName": "Gay",
       "name": "gay",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -794,7 +794,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "cannibal",
@@ -949,7 +949,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "insomniac",
@@ -1011,7 +1011,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "heavysleeper"
@@ -1121,7 +1121,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy is exceptionally kind. he has a special way of using kind words to brighten someone's day. he never insults others, and never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
       "stats": [
 
       ],
@@ -1197,7 +1197,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "codependent",
@@ -1254,7 +1254,7 @@
 
       ],
       "conflicts": [
-
+        "wimp"
       ],
       "bypassLimit": false,
       "data": {
@@ -1264,7 +1264,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "wimp"
         ],
         "stats": [
 
@@ -1510,7 +1510,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "prude",
@@ -1575,7 +1575,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "undergrounder"
@@ -1665,7 +1665,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1695,7 +1695,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -1726,7 +1726,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "prude",
@@ -1790,7 +1790,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "nudist",
@@ -2065,7 +2065,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
           "slowpoke",
@@ -2219,7 +2219,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2623,7 +2623,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Psychology (unofficial 1.1/1.2) ",
+        "mod": "Psychology (unofficial) v1.1-1.3",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2731,6 +2731,126 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is romantically attracted to people of the opposite gender.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Straight",
+      "name": "straight",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy will never cheat on a partner, no matter how bad the relationship gets.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "philanderer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "philanderer"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Faithful",
+      "name": "faithful",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy just cannot be trusted to stay faithful to a partner.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "faithful"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "faithful"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Philanderer",
+      "name": "philanderer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy prefers romantic relationships involving multiple partners to monogamous relationships. he doesn't mind if his partners romance other people, but will be less happy in a restraining, monogamous relationship.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "asexual"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[RF] Rational Romance (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "asexual"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Polyamorous",
+      "name": "polyamorous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -2743,7 +2863,7 @@
           "+4.60 Move speed",
           "+16.0C Minimum comfortable temperature",
           "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
+          "+75 Leather amount",
           "+3 Honor value"
         ],
         "mod": "RimWorld",
